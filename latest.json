@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.5",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.5-c6/RichTurns-0.1.5-c6.apk",
+  "sha256": "f0607d30de9ac3779d57718c5509b4e1abd8f966f6500efb30eba98b62884174",
+  "bytes": 77560954,
+  "releaseNotes": [
+    "Choose your colour before Quick play, creating or joining a group. Colours stay fixed when turns shuffle.",
+    "Clearer city ownership colours, borders and markers.",
+    "Real 3D Home dice, animated table entry and four visible board events with scrollable history.",
+    "Upright dice results with the new roll sound.",
+    "Settings for sound, vibration, appearance and app updates.",
+    "Cleaner group controls, simpler tile labels and ten seconds of network recovery grace."
+  ]
+}
