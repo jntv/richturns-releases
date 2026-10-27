@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.7",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.7-c8/RichTurns-0.1.7-c8.apk",
-  "sha256": "39b39dc42844efaf57731647886a5611ef3d91c168b277f530caa84f51e526ba",
-  "bytes": 77562278,
+  "version": "0.1.8",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.8-c9/RichTurns-0.1.8-c9.apk",
+  "sha256": "35c75853c096c9ee803150620dc6c071c1008b97f0c8643f817575c69d778bed",
+  "bytes": 77570234,
   "releaseNotes": [
-    "Passwords start hidden when switching from signup to login.",
-    "Join failures stay visible in Public games, with clearer feedback when editing a group code.",
-    "Room, sound and vibration settings have larger tappable rows.",
-    "Inactivity warnings keep board controls visible on compact phones.",
-    "Results chat opens in a panel that fits above the keyboard.",
-    "Turn clock controls appear only in Time reserve games."
+    "Account, Friends and Settings have compact headers and a consistent game-style layout.",
+    "Account actions are grouped into clearer rows, with nickname errors beside the field.",
+    "Friends has cleaner player cards, illustrated empty states and simpler navigation.",
+    "Sound, vibration, appearance and updates use smaller grouped settings cards.",
+    "Release notes open separately from Settings, with fixed pages and a clear Back action.",
+    "Release notes start on the first page whenever opened."
   ]
 }
