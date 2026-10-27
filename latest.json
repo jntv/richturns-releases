@@ -1,12 +1,16 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.6",
-  "versionCode": 7,
-  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.6-c7/RichTurns-0.1.6-c7.apk",
-  "sha256": "df500600315774ceb9de1e59a1344b91e9b8b324965212c6a607d01fbc7d3f46",
-  "bytes": 77561474,
+  "version": "0.1.7",
+  "versionCode": 8,
+  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.7-c8/RichTurns-0.1.7-c8.apk",
+  "sha256": "39b39dc42844efaf57731647886a5611ef3d91c168b277f530caa84f51e526ba",
+  "bytes": 77562278,
   "releaseNotes": [
-    "More reliable Android update checks, with more time for slow connections and a clear timeout message.",
-    "Includes the small Leave confirmation, scrollable board history, clearer ownership and Settings from 0.1.5."
+    "Passwords start hidden when switching from signup to login.",
+    "Join failures stay visible in Public games, with clearer feedback when editing a group code.",
+    "Room, sound and vibration settings have larger tappable rows.",
+    "Inactivity warnings keep board controls visible on compact phones.",
+    "Results chat opens in a panel that fits above the keyboard.",
+    "Turn clock controls appear only in Time reserve games."
   ]
 }
