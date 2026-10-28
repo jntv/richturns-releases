@@ -1,16 +1,15 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.9",
-  "versionCode": 10,
-  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.9-c10/RichTurns-0.1.9-c10.apk",
-  "sha256": "16f73b578dcdc43d6e2ff2079017d5b8b9f2e1d43d5dc00486073405b3a0a3e8",
-  "bytes": 77581382,
+  "version": "0.1.10",
+  "versionCode": 11,
+  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.10-c11/RichTurns-0.1.10-c11.apk",
+  "sha256": "ad8ad31e4d2f8d069eea233fa36d172c4bec6f551d65cad10ba0050b7c2b6ed2",
+  "bytes": 77583714,
   "releaseNotes": [
-    "Choose your player colour after joining a table.",
-    "Change it again from Players in the lobby or Your colour in the game menu.",
-    "Quick play now takes the full button width.",
-    "Create private group and Join group have clear full-width buttons.",
-    "Colour changes sync across the table without changing your turn timer.",
-    "Learn with real board graphics and small playable examples in the new How to play guide."
+    "Clearer city names and special spaces on small boards.",
+    "Separate space for tile names, ownership and player markers.",
+    "Tap a space to see its full name, price and property details.",
+    "Removed an empty Results page on small screens.",
+    "Clear old screen-reader warnings after normal play resumes."
   ]
 }
