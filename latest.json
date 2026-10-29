@@ -1,15 +1,16 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.10",
-  "versionCode": 11,
-  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.10-c11/RichTurns-0.1.10-c11.apk",
-  "sha256": "ad8ad31e4d2f8d069eea233fa36d172c4bec6f551d65cad10ba0050b7c2b6ed2",
-  "bytes": 77583714,
+  "version": "0.1.11",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.11-c12/RichTurns-0.1.11-c12.apk",
+  "sha256": "1f96776b35a82406d970766321c1bfc9b98c3cd70056163973d1775c02be67a0",
+  "bytes": 78568738,
   "releaseNotes": [
-    "Clearer city names and special spaces on small boards.",
-    "Separate space for tile names, ownership and player markers.",
-    "Tap a space to see its full name, price and property details.",
-    "Removed an empty Results page on small screens.",
-    "Clear old screen-reader warnings after normal play resumes."
+    "City Pop styling across Home, accounts, friends, settings, groups and game screens.",
+    "New city artwork, app icon, bold typography and blue-and-white animated dice.",
+    "Clearer cards, menus, investments and compact screens with keyboard-safe forms.",
+    "Faster practice-bot auction bidding with time to respond.",
+    "Recover from stalled table connections without getting stuck.",
+    "Active trades first, compact offer history and visible Quick-round progress."
   ]
 }
