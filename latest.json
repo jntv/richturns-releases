@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.11",
-  "versionCode": 12,
-  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.11-c12/RichTurns-0.1.11-c12.apk",
-  "sha256": "1f96776b35a82406d970766321c1bfc9b98c3cd70056163973d1775c02be67a0",
-  "bytes": 78568738,
+  "version": "0.1.12",
+  "versionCode": 13,
+  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.12-c13/RichTurns-0.1.12-c13.apk",
+  "sha256": "13e4f6542a96a48de34a348c36ed762a98affb276040ae2db260d680f729cbd7",
+  "bytes": 78576374,
   "releaseNotes": [
-    "City Pop styling across Home, accounts, friends, settings, groups and game screens.",
-    "New city artwork, app icon, bold typography and blue-and-white animated dice.",
-    "Clearer cards, menus, investments and compact screens with keyboard-safe forms.",
-    "Faster practice-bot auction bidding with time to respond.",
-    "Recover from stalled table connections without getting stuck.",
-    "Active trades first, compact offer history and visible Quick-round progress."
+    "Consistent screen and page transitions across RichTurns.",
+    "Animated opening and closing for sheets and property popups.",
+    "Responsive press feedback for buttons and the game dock.",
+    "Quieter Home motion, clearer loaders and animated guide steps.",
+    "Covered screens pause motion; background and reduced-motion settings are respected.",
+    "Game actions stay immediate and form drafts remain in place."
   ]
 }
