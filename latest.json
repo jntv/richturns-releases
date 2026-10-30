@@ -1,16 +1,15 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.13",
-  "versionCode": 14,
-  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.13-c14/RichTurns-0.1.13-c14.apk",
-  "sha256": "bac89511a9e3df3969d8ae0aed5d0d9342b96f7d8f4bec6f3f10a89345bb85f6",
-  "bytes": 78597022,
+  "version": "0.1.14",
+  "versionCode": 15,
+  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.14-c15/RichTurns-0.1.14-c15.apk",
+  "sha256": "1398f6899dbd80934150b3ce2b6e3d9800c507021ca0d76258c547c2aff58ac7",
+  "bytes": 78610538,
   "releaseNotes": [
-    "Compact popups for joining, invitations, inactivity and quick confirmations.",
-    "Clearer light/dark player colours, cleaner spacing and aligned menu buttons.",
-    "Clear connection failures and immediate cancellation when returning Home.",
-    "Table lists keep the latest results during refreshes and account changes.",
-    "Reports wait for server confirmation and keep errors available for retry.",
-    "Safer sign-out, form cancellation and duplicate-action protection."
+    "Five-second synchronized game start; bots think for 2–5 seconds between moves.",
+    "Hear opponents’ turns and purchases, with a vibration warning near your deadline.",
+    "Compact connection notifications and clearer removal messages.",
+    "See all four players, investments and results together without Back/Next.",
+    "Results offer just Rematch and Leave, and Investments keeps Close beside the title."
   ]
 }
