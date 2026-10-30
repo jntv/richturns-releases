@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.12",
-  "versionCode": 13,
-  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.12-c13/RichTurns-0.1.12-c13.apk",
-  "sha256": "13e4f6542a96a48de34a348c36ed762a98affb276040ae2db260d680f729cbd7",
-  "bytes": 78576374,
+  "version": "0.1.13",
+  "versionCode": 14,
+  "apkUrl": "https://github.com/jntv/richturns-releases/releases/download/v0.1.13-c14/RichTurns-0.1.13-c14.apk",
+  "sha256": "bac89511a9e3df3969d8ae0aed5d0d9342b96f7d8f4bec6f3f10a89345bb85f6",
+  "bytes": 78597022,
   "releaseNotes": [
-    "Consistent screen and page transitions across RichTurns.",
-    "Animated opening and closing for sheets and property popups.",
-    "Responsive press feedback for buttons and the game dock.",
-    "Quieter Home motion, clearer loaders and animated guide steps.",
-    "Covered screens pause motion; background and reduced-motion settings are respected.",
-    "Game actions stay immediate and form drafts remain in place."
+    "Compact popups for joining, invitations, inactivity and quick confirmations.",
+    "Clearer light/dark player colours, cleaner spacing and aligned menu buttons.",
+    "Clear connection failures and immediate cancellation when returning Home.",
+    "Table lists keep the latest results during refreshes and account changes.",
+    "Reports wait for server confirmation and keep errors available for retry.",
+    "Safer sign-out, form cancellation and duplicate-action protection."
   ]
 }
